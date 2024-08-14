@@ -1,0 +1,23 @@
+Tabel 
+1. Categories 
+    - id 
+    - name 
+    - type 
+    - created_at
+    - updated_at
+    - deleted_at
+
+2. transaction
+    - id 
+    - name 
+    - categories_id
+    - amount 
+    - transaction_date
+    - created_at
+    - updated_at
+    - deleted_at
+
+    
+type
+    1 : income
+    2 : expense
